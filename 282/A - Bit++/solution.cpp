@@ -8,16 +8,8 @@ int main(){
     while(n--){
         std::string s;
         std::cin >> s;
-        for (char c : s){
-            if (c == '+'){
-                x++;
-                break;
-            }
-            else if (c == '-'){
-                x--;
-                break;
-            }
-        }
+        if (s[1] == '+')    x++;
+        else    x--;
     }
     std::cout << x;
     return 0;
