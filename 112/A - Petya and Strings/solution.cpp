@@ -1,15 +1,12 @@
 #include<iostream>
+#include<cctype>
  
 int compare(std::string a, std::string b){
-    int i = 0;
-    while(i < a.size()){
-        int x = a[i];
-        int y = b[i];
-        if (x > 90)     x -= 32;
-        if (y > 90)     y -= 32;
+    for (int i = 0; i < a.size(); i++){
+        char x = tolower(a[i]);
+        char y = tolower(b[i]);
         if (x < y)      return -1;
-        if (x > y)      return 1;
-        i++;
+        if (x > y)     return 1;
     }
     return 0;
 }
