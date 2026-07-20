@@ -3,13 +3,13 @@
 using namespace std;
  
 bool check(int n){
-    int d[10] = {0};
+    bool visited[10] = {false};
     while(n){
-        d[n % 10]++;
+        if (visited[n % 10]){
+            return false;
+        }
+        visited[n % 10] = true;
         n /= 10;
-    }
-    for (int i = 0; i < 10; i++){
-        if (d[i] > 1)       return false;
     }
     return true;
 }
