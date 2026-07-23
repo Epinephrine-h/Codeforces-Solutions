@@ -1,19 +1,10 @@
 #include<iostream>
-#include<vector>
- 
 using namespace std;
  
 void solve(){
     int k, l, n, m, d, cnt = 0;  cin >> k >> l >> n >> m >> d;
-    vector<bool> mark(d+1, false);
-    int can[4] = {k, l, n, m};
-    for (int i = 0; i < 4; i++){
-        for (int j = can[i]; j <= d; j += can[i]){
-            mark[j] = true;
-        }
-    }
     for (int i = 1; i <= d; i++){
-        if (mark[i])       cnt++;
+        if (i % k == 0 || i % l == 0 || i % n == 0 || i % m == 0)   cnt++;
     }
     cout << cnt;
 }
