@@ -6,25 +6,13 @@ void solve(){
     bool first = false;
     for (int i = 0; i < n; i++){
         if (i % 2 == 0){
-            for (int j = 0; j < m; j++)     cout << '#';
-            cout << '
+            cout << string(m, '#') << '
 ';
         }
-        else{
-            if (first){
-                cout << '#';
-                for (int j = 1; j < m; j++)     cout << '.';
-                cout << '
+        else if (i % 4 == 1)        cout << string(m-1,'.') << '#' << '
 ';
-                first = false;
-            }
-            else{
-                for (int j = 0; j < m- 1; j++)      cout << '.';
-                cout << '#' << '
+        else    cout << '#' << string(m-1, '.') << '
 ';
-                first = true; 
-            }
-        }
     }
 }
  
