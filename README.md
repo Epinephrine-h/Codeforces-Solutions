@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 34 | 11 |
+| 35 | 11 |
 
 ---
 
@@ -14,12 +14,12 @@
 
 - [*special](#special) (1)
 - [brute force](#brute-force) (5)
-- [constructive algorithms](#constructive-algorithms) (1)
+- [constructive algorithms](#constructive-algorithms) (2)
 - [dp](#dp) (1)
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (4)
-- [implementation](#implementation) (27)
-- [math](#math) (6)
+- [implementation](#implementation) (28)
+- [math](#math) (7)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (1)
 - [strings](#strings) (9)
@@ -46,6 +46,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 148A | [Insomnia cure](https://codeforces.com/contest/148/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Epinephrine-h/Codeforces-Solutions/blob/HEAD/148/A%20-%20Insomnia%20cure/solution.cpp) |
 | 266B | [Queue at the School](https://codeforces.com/contest/266/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Epinephrine-h/Codeforces-Solutions/blob/HEAD/266/B%20-%20Queue%20at%20the%20School/solution.cpp) |
 
 ### dp
@@ -81,6 +82,7 @@
 | 116A | [Tram](https://codeforces.com/contest/116/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Epinephrine-h/Codeforces-Solutions/blob/HEAD/116/A%20-%20Tram/solution.cpp) |
 | 136A | [Presents](https://codeforces.com/contest/136/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Epinephrine-h/Codeforces-Solutions/blob/HEAD/136/A%20-%20Presents/solution.cpp) |
 | 144A | [Arrival of the General](https://codeforces.com/contest/144/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Epinephrine-h/Codeforces-Solutions/blob/HEAD/144/A%20-%20Arrival%20of%20the%20General/solution.cpp) |
+| 148A | [Insomnia cure](https://codeforces.com/contest/148/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Epinephrine-h/Codeforces-Solutions/blob/HEAD/148/A%20-%20Insomnia%20cure/solution.cpp) |
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Epinephrine-h/Codeforces-Solutions/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
 | 200B | [Drinks](https://codeforces.com/contest/200/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Epinephrine-h/Codeforces-Solutions/blob/HEAD/200/B%20-%20Drinks/solution.cpp) |
 | 228A | [Is your horseshoe on the other hoof?](https://codeforces.com/contest/228/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Epinephrine-h/Codeforces-Solutions/blob/HEAD/228/A%20-%20Is%20your%20horseshoe%20on%20the%20other%20hoof%3F/solution.cpp) |
@@ -106,6 +108,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Epinephrine-h/Codeforces-Solutions/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
+| 148A | [Insomnia cure](https://codeforces.com/contest/148/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Epinephrine-h/Codeforces-Solutions/blob/HEAD/148/A%20-%20Insomnia%20cure/solution.cpp) |
 | 200B | [Drinks](https://codeforces.com/contest/200/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Epinephrine-h/Codeforces-Solutions/blob/HEAD/200/B%20-%20Drinks/solution.cpp) |
 | 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Epinephrine-h/Codeforces-Solutions/blob/HEAD/486/A%20-%20Calculating%20Function/solution.cpp) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Epinephrine-h/Codeforces-Solutions/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
