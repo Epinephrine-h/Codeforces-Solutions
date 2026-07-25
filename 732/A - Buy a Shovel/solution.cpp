@@ -4,13 +4,13 @@ using namespace std;
  
 int Answer()
 {
-    int k, r, ans = 1;
+    int k, r;
     cin >> k >> r;
-    while (true){
-        int cost = ans * k;
-        if (cost % 10 == 0 || (cost - r) % 10 == 0)     return ans;
-        ans++;
+    for (int i = 1; i <= 10; i++){
+        int cost = i * k;
+        if (cost % 10 == 0 || cost % 10 == r)   return i;
     }
+    return 10;
 }
  
 int main()
