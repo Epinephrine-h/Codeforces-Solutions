@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 62 | 15 |
+| 63 | 15 |
 
 ---
 
@@ -20,7 +20,7 @@
 - [games](#games) (1)
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (8)
-- [implementation](#implementation) (47)
+- [implementation](#implementation) (48)
 - [math](#math) (18)
 - [number theory](#number-theory) (2)
 - [shortest paths](#shortest-paths) (1)
@@ -146,6 +146,7 @@
 | 1742A | [Sum](https://codeforces.com/contest/1742/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Epinephrine-h/Codeforces-Solutions/blob/HEAD/1742/A%20-%20Sum/solution.cpp) |
 | 1791A | [Codeforces Checking](https://codeforces.com/contest/1791/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Epinephrine-h/Codeforces-Solutions/blob/HEAD/1791/A%20-%20Codeforces%20Checking/solution.cpp) |
 | 1807A | [Plus or Minus](https://codeforces.com/contest/1807/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Epinephrine-h/Codeforces-Solutions/blob/HEAD/1807/A%20-%20Plus%20or%20Minus/solution.cpp) |
+| 1829B | [Blank Space](https://codeforces.com/contest/1829/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Epinephrine-h/Codeforces-Solutions/blob/HEAD/1829/B%20-%20Blank%20Space/solution.cpp) |
 | 1999A | [A+B Again?](https://codeforces.com/contest/1999/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Epinephrine-h/Codeforces-Solutions/blob/HEAD/1999/A%20-%20A%2BB%20Again%3F/solution.cpp) |
 
 ### math
