@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 61 | 15 |
+| 62 | 15 |
 
 ---
 
@@ -20,12 +20,12 @@
 - [games](#games) (1)
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (8)
-- [implementation](#implementation) (46)
+- [implementation](#implementation) (47)
 - [math](#math) (18)
 - [number theory](#number-theory) (2)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (4)
-- [strings](#strings) (12)
+- [strings](#strings) (13)
 - [two pointers](#two-pointers) (1)
 
 ---
@@ -144,6 +144,7 @@
 | 1692A | [Marathon](https://codeforces.com/contest/1692/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Epinephrine-h/Codeforces-Solutions/blob/HEAD/1692/A%20-%20Marathon/solution.cpp) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Epinephrine-h/Codeforces-Solutions/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.cpp) |
 | 1742A | [Sum](https://codeforces.com/contest/1742/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Epinephrine-h/Codeforces-Solutions/blob/HEAD/1742/A%20-%20Sum/solution.cpp) |
+| 1791A | [Codeforces Checking](https://codeforces.com/contest/1791/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Epinephrine-h/Codeforces-Solutions/blob/HEAD/1791/A%20-%20Codeforces%20Checking/solution.cpp) |
 | 1807A | [Plus or Minus](https://codeforces.com/contest/1807/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Epinephrine-h/Codeforces-Solutions/blob/HEAD/1807/A%20-%20Plus%20or%20Minus/solution.cpp) |
 | 1999A | [A+B Again?](https://codeforces.com/contest/1999/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Epinephrine-h/Codeforces-Solutions/blob/HEAD/1999/A%20-%20A%2BB%20Again%3F/solution.cpp) |
 
@@ -208,6 +209,7 @@
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Epinephrine-h/Codeforces-Solutions/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.cpp) |
 | 785A | [Anton and Polyhedrons](https://codeforces.com/contest/785/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Epinephrine-h/Codeforces-Solutions/blob/HEAD/785/A%20-%20Anton%20and%20Polyhedrons/solution.cpp) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Epinephrine-h/Codeforces-Solutions/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.cpp) |
+| 1791A | [Codeforces Checking](https://codeforces.com/contest/1791/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Epinephrine-h/Codeforces-Solutions/blob/HEAD/1791/A%20-%20Codeforces%20Checking/solution.cpp) |
 
 ### two pointers
 
