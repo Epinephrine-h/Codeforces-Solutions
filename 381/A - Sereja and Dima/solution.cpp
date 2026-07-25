@@ -13,34 +13,22 @@ void Answer()
     bool SerejaTurn = true;
     while (left <= right)
     {
-        if (SerejaTurn)
+        int choosenCard;
+        if (card[left] > card[right])
         {
-            if (card[left] > card[right])
-            {
-                Sereja += card[left];
-                left++;
-            }
-            else
-            {
-                Sereja += card[right];
-                right--;
-            }
-            SerejaTurn = false;
+            choosenCard = card[left];
+            left++;
         }
         else
         {
-            if (card[left] > card[right])
-            {
-                Dima += card[left];
-                left++;
-            }
-            else
-            {
-                Dima += card[right];
-                right--;
-            }
-            SerejaTurn = true;
+            choosenCard = card[right];
+            right--;
         }
+        if (SerejaTurn)
+            Sereja += choosenCard;
+        else
+            Dima += choosenCard;
+        SerejaTurn = !SerejaTurn;
     }
     cout << Sereja << " " << Dima;
 }
