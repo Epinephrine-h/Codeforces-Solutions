@@ -15,7 +15,7 @@ int main()
     }
     string ans;
     int record = 0;
-    for (auto i : team){
+    for (const auto& i : team){
         if (i.second > record){
             record = i.second;
             ans = i.first;
