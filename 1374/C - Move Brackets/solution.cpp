@@ -1,5 +1,4 @@
 #include <iostream>
-#include<stack>
  
 using namespace std;
  
@@ -9,16 +8,15 @@ int main()
     cin.tie(NULL);
     int testcase;   cin  >> testcase;
     while(testcase--){
-        stack<char> openBracket;
-        int n;  cin >> n;
+        int n, cnt = 0;  cin >> n;
         string s;   cin >> s;
         for (const char& c : s){
-            if (c == '(')   openBracket.push(c);
+            if (c == '(')   cnt++;
             else{
-                if (!openBracket.empty())       openBracket.pop();
+                if (cnt > 0)       cnt--;
             }
         }
-        cout << openBracket.size() << '
+        cout << cnt << '
 ';
     }
     return 0;
