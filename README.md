@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 70 | 18 |
+| 71 | 18 |
 
 ---
 
@@ -22,12 +22,12 @@
 - [games](#games) (1)
 - [graph matchings](#graph-matchings) (1)
 - [graphs](#graphs) (1)
-- [greedy](#greedy) (11)
+- [greedy](#greedy) (12)
 - [implementation](#implementation) (51)
 - [math](#math) (19)
 - [number theory](#number-theory) (2)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (5)
+- [sortings](#sortings) (6)
 - [strings](#strings) (15)
 - [two pointers](#two-pointers) (1)
 
@@ -117,6 +117,7 @@
 | 1374C | [Move Brackets](https://codeforces.com/contest/1374/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Epinephrine-h/Codeforces-Solutions/blob/HEAD/1374/C%20-%20Move%20Brackets/solution.cpp) |
 | 1399A | [Remove Smallest](https://codeforces.com/contest/1399/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Epinephrine-h/Codeforces-Solutions/blob/HEAD/1399/A%20-%20Remove%20Smallest/solution.cpp) |
 | 1409A | [Yet Another Two Integers Problem](https://codeforces.com/contest/1409/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Epinephrine-h/Codeforces-Solutions/blob/HEAD/1409/A%20-%20Yet%20Another%20Two%20Integers%20Problem/solution.cpp) |
+| 1722D | [Line](https://codeforces.com/contest/1722/problem/D) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Epinephrine-h/Codeforces-Solutions/blob/HEAD/1722/D%20-%20Line/solution.cpp) |
 | 1857A | [Array Coloring](https://codeforces.com/contest/1857/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Epinephrine-h/Codeforces-Solutions/blob/HEAD/1857/A%20-%20Array%20Coloring/solution.cpp) |
 | 1878A | [How Much Does Daytona Cost?](https://codeforces.com/contest/1878/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Epinephrine-h/Codeforces-Solutions/blob/HEAD/1878/A%20-%20How%20Much%20Does%20Daytona%20Cost%3F/solution.cpp) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Epinephrine-h/Codeforces-Solutions/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
@@ -222,6 +223,7 @@
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Epinephrine-h/Codeforces-Solutions/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
 | 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Epinephrine-h/Codeforces-Solutions/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.cpp) |
 | 1399A | [Remove Smallest](https://codeforces.com/contest/1399/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Epinephrine-h/Codeforces-Solutions/blob/HEAD/1399/A%20-%20Remove%20Smallest/solution.cpp) |
+| 1722D | [Line](https://codeforces.com/contest/1722/problem/D) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Epinephrine-h/Codeforces-Solutions/blob/HEAD/1722/D%20-%20Line/solution.cpp) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Epinephrine-h/Codeforces-Solutions/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
 
 ### strings
