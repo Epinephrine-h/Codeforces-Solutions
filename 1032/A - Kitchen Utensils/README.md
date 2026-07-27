@@ -1,0 +1,23 @@
+<h2><a href="https://codeforces.com/contest/1032/problem/A" target="_blank" rel="noopener noreferrer">1032A — Kitchen Utensils</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 900 |
+| **Language** | C++23 (GCC 14-64, msys2) |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 1032A](https://codeforces.com/contest/1032/problem/A) |
+
+## Topics
+_No tags available_
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">A. Kitchen Utensils</div><div class="time-limit"><div class="property-title">time limit per test</div>1 second</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard"><div class="property-title">input</div>standard input</div><div class="output-file output-standard"><div class="property-title">output</div>standard output</div></div><div><p>The king's birthday dinner was attended by $$$k$$$ guests. The dinner was quite a success: every person has eaten several dishes (though the number of dishes was the same for every person) and every dish was served alongside with a new set of kitchen utensils.</p><p>All types of utensils in the kingdom are numbered from $$$1$$$ to $$$100$$$. It is known that every set of utensils is the same and consist of different types of utensils, although every particular type may appear in the set at most once. For example, a valid set of utensils can be composed of one fork, one spoon and one knife.</p><p>After the dinner was over and the guests were dismissed, the king wondered what minimum possible number of utensils could be stolen. Unfortunately, the king has forgotten how many dishes have been served for every guest but he knows the list of all the utensils left after the dinner. Your task is to find the minimum possible number of stolen utensils.</p></div><div class="input-specification"><div class="section-title">Input</div><p>The first line contains two integer numbers $$$n$$$ and $$$k$$$ ($$$1 \le n \le 100, 1 \le k \le 100$$$)  — the number of kitchen utensils remaining after the dinner and the number of guests correspondingly.</p><p>The next line contains $$$n$$$ integers $$$a_1, a_2, \ldots, a_n$$$ ($$$1 \le a_i \le 100$$$)  — the types of the utensils remaining. Equal values stand for identical utensils while different values stand for different utensils.</p></div><div class="output-specification"><div class="section-title">Output</div><p>Output a single value — the minimum number of utensils that could be stolen by the guests.</p></div><div class="sample-tests"><div class="section-title">Examples</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id0015001611508262824" id="id009783932036945301" class="input-output-copier">Copy</div></div><pre id="id0015001611508262824">5 2
+1 2 2 1 3
+</pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id003358922568863604" id="id005363049109366912" class="input-output-copier">Copy</div></div><pre id="id003358922568863604">1
+</pre></div><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id00607655141616031" id="id006589316647109495" class="input-output-copier">Copy</div></div><pre id="id00607655141616031">10 3
+1 3 3 1 3 5 5 5 5 100
+</pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id008335276969476335" id="id006223199157834105" class="input-output-copier">Copy</div></div><pre id="id008335276969476335">14
+</pre></div></div></div><div class="note"><div class="section-title">Note</div><p>In the first example it is clear that at least one utensil of type $$$3$$$ has been stolen, since there are two guests and only one such utensil. But it is also possible that every person received only one dish and there were only six utensils in total, when every person got a set $$$(1, 2, 3)$$$ of utensils. Therefore, the answer is $$$1$$$.</p><p>One can show that in the second example at least $$$2$$$ dishes should have been served for every guest, so the number of utensils should be at least $$$24$$$: every set contains $$$4$$$ utensils and every one of the $$$3$$$ guests gets two such sets. Therefore, at least $$$14$$$ objects have been stolen. Please note that utensils of some types (for example, of types $$$2$$$ and $$$4$$$ in this example) may be not present in the set served for dishes.</p></div>
