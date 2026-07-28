@@ -10,8 +10,9 @@ int main(){
     unordered_map<string,string> dictionary;
     for (int i = 0; i < m; i++){
         string x, y;    cin >> x >> y;
-        if (x.size() > y.size())    dictionary[x]  = y;
-        else    dictionary[x] = x;
+        string best = (y.size() < x.size()) ? y:x;
+        dictionary[x] = best;
+        dictionary[y] = best;
     }
     for (int i =0; i < n; i++){
         string word;    cin >> word;
