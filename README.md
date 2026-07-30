@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 77 | 19 |
+| 78 | 19 |
 
 ---
 
@@ -24,8 +24,8 @@
 - [graph matchings](#graph-matchings) (1)
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (14)
-- [implementation](#implementation) (53)
-- [math](#math) (21)
+- [implementation](#implementation) (54)
+- [math](#math) (22)
 - [number theory](#number-theory) (2)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (7)
@@ -178,6 +178,7 @@
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Epinephrine-h/Codeforces-Solutions/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.cpp) |
 | 977A | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Epinephrine-h/Codeforces-Solutions/blob/HEAD/977/A%20-%20Wrong%20Subtraction/solution.cpp) |
 | 1030A | [In Search of an Easy Problem](https://codeforces.com/contest/1030/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Epinephrine-h/Codeforces-Solutions/blob/HEAD/1030/A%20-%20In%20Search%20of%20an%20Easy%20Problem/solution.cpp) |
+| 1165A | [Remainder](https://codeforces.com/contest/1165/problem/A) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Epinephrine-h/Codeforces-Solutions/blob/HEAD/1165/A%20-%20Remainder/solution.cpp) |
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Epinephrine-h/Codeforces-Solutions/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.cpp) |
 | 1512A | [Spy Detected!](https://codeforces.com/contest/1512/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Epinephrine-h/Codeforces-Solutions/blob/HEAD/1512/A%20-%20Spy%20Detected!/solution.cpp) |
 | 1669A | [Division?](https://codeforces.com/contest/1669/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Epinephrine-h/Codeforces-Solutions/blob/HEAD/1669/A%20-%20Division%3F/solution.cpp) |
@@ -208,6 +209,7 @@
 | 732A | [Buy a Shovel](https://codeforces.com/contest/732/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Epinephrine-h/Codeforces-Solutions/blob/HEAD/732/A%20-%20Buy%20a%20Shovel/solution.cpp) |
 | 750A | [New Year and Hurry](https://codeforces.com/contest/750/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Epinephrine-h/Codeforces-Solutions/blob/HEAD/750/A%20-%20New%20Year%20and%20Hurry/solution.cpp) |
 | 1154A | [Restoring Three Numbers](https://codeforces.com/contest/1154/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Epinephrine-h/Codeforces-Solutions/blob/HEAD/1154/A%20-%20Restoring%20Three%20Numbers/solution.cpp) |
+| 1165A | [Remainder](https://codeforces.com/contest/1165/problem/A) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Epinephrine-h/Codeforces-Solutions/blob/HEAD/1165/A%20-%20Remainder/solution.cpp) |
 | 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Epinephrine-h/Codeforces-Solutions/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.cpp) |
 | 1335A | [Candies and Two Sisters](https://codeforces.com/contest/1335/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Epinephrine-h/Codeforces-Solutions/blob/HEAD/1335/A%20-%20Candies%20and%20Two%20Sisters/solution.cpp) |
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Epinephrine-h/Codeforces-Solutions/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.cpp) |
